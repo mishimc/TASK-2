@@ -1,5 +1,5 @@
 # Taller 2
-## Aprendizaje de Máquina para el Análisis del Rendimiento de Ventas en Comercio Electrónico
+## Aprendizaje de Máquina para el Análisis del Rendimiento de Ventas en Comercio Electrónico - EDA
 
 En este análisis se utiliza el conjunto de datos Online Retail II, disponible en el repositorio de aprendizaje automático de la Universidad de California en Irvine (UCI Machine Learning Repository) https://archive.ics.uci.edu/ml/datasets/Online+Retail+II. Este conjunto de datos recopila todas las transacciones realizadas por un comercio electrónico con sede en el Reino Unido durante el período comprendido entre el 1 de diciembre de 2009 y el 9 de diciembre de 2011. La información registrada incluye detalles como el número de factura, el código y la descripción del producto, la cantidad comprada, la fecha de la transacción, el precio unitario, el código del cliente y el país desde el cual se realizó la compra.
 
