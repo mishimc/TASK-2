@@ -11,9 +11,9 @@ Dashboard interactivo que compara modelos de Machine Learning modelos (Random Fo
 ## 🛠️ Ejecución
 1. Asegurarse de que se tiene instalado lo descrito en ``requirements.txt``
 2. Revisar que los archivos tengan el fornmato correcto, por ejemplo:
-   -app.py(aplicación)
-   -stack.pkl random.pkl regresion.pkl stack2.pkl random2.pkl regresion2.pkl (modelos)
-   -pipeline.pkl (para transformar datos ingresados)
-   -selected_features.pkl (características más importantes)
-   -df_dis.pkl df_limpio.pkl (dataset)
+   - `app.py` *(aplicación principal en Streamlit)*  
+   - `stack.pkl`, `random.pkl`, `regresion.pkl`, `stack2.pkl`, `random2.pkl`, `regresion2.pkl` *(modelos entrenados)*  
+   - `pipeline.pkl` *(preprocesamiento de datos nuevos)*  
+   - `selected_features.pkl` *(características seleccionadas para modelos reducidos)*  
+   - `df_dis.pkl`, `df_limpio.pkl` *(datasets en formato procesado)*  
 4. En el terminal, donde se use app.py ejecutar ``streamlit run app.py``
